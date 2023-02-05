@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libExample.a CMakeFiles/Example.dir/main.cpp.obj
+C:\mingw64\bin\ranlib.exe libExample.a

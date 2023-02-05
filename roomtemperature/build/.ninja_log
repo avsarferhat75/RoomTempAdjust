@@ -1,0 +1,16 @@
+# ninja log v5
+27	1373	6973396208741676	CMakeFiles/main.dir/main.cpp.obj	e601b1ac41734d6
+10	1454	6973396209385052	CMakeFiles/Example.dir/main.cpp.obj	ef9691a7fcde008a
+1454	1978	6973396213221360	libExample.a	7710e92ad80cb481
+127	3698	6973396231753367	googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	9638c9b7d9180742
+178	3813	6973396233017403	test/CMakeFiles/ExampleTests.dir/ExampleTests.cpp.obj	a1bf821807a00211
+60	4619	6973396241165404	googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	4acc95d24d1a901a
+43	5390	6973396248817206	googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	fb319e530d093337
+85	9892	6973396293751511	googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	73e02cec4fdd1cdc
+68	437	6973396837328292	lib/libgtest.a	2adc558345e37e7e
+439	880	6973396841324262	lib/libgmock.a	c8d43cccefdb4d9d
+515	1016	6973396842845937	lib/libgtest_main.a	87f66a0d578bb5e7
+30	1253	6973396846166487	CMakeFiles/Example.dir/main.cpp.obj	ef9691a7fcde008a
+880	1333	6973396845513197	lib/libgmock_main.a	daa582b2d0df1d0a
+45	1334	6973396846498007	CMakeFiles/main.dir/main.cpp.obj	e601b1ac41734d6
+1254	1611	6973396849228732	libExample.a	7710e92ad80cb481

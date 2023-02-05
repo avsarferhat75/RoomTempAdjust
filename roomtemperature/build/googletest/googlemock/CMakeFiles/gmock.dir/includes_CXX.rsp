@@ -1,0 +1,1 @@
+-I"D:/CMake Projects/roomtemperature/googletest/googlemock/include" -I"D:/CMake Projects/roomtemperature/googletest/googlemock" -isystem "D:/CMake Projects/roomtemperature/googletest/googletest/include" -isystem "D:/CMake Projects/roomtemperature/googletest/googletest"
